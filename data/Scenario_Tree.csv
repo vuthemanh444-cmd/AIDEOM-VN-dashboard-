@@ -1,0 +1,5 @@
+﻿Scenario,GrowthTG,FDI VN,Export VN,Probability
+s1(Lạc quan),3.5,32,12,0.3
+s2(Cơ sở),2.8,27,8,0.45
+s3(Bi quan),1.5,20,3,0.2
+s4(Khủng hoảng),0.2,12,-5,0.05

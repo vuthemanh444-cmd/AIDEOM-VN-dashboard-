@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+scipy
+pulp
+cvxpy
+matplotlib
+seaborn
+pymoo
+pyomo
