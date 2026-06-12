@@ -468,10 +468,7 @@ Khả năng mở rộng đầu tư AI phụ thuộc vào mức đầu tư vốn 
     # SOLVER
     # ==================================================
 
-    solver = SolverFactory(
-        "cbc",
-        executable=r"C:\cbc\bin\cbc.exe"
-    )
+    solver = SolverFactory('cbc')
 
     result = solver.solve(
         model,
