@@ -13,8 +13,7 @@ pg = st.navigation([
     st.Page("pages/10_👷_Bài 9 — Lao động & AI.py", title="Bài 9 — Lao động & AI"),
     st.Page("pages/11_🎲_Bài 10 — Stochastic SP.py", title="Bài 10 — Stochastic SP"),
     st.Page("pages/12_🤖_Bài 11 — Q-learning RL.py", title="Bài 11 — Q-learning RL"),
-    st.Page("pages/13_🇻🇳_Bài 12 — AIDEOM tích hợp.py", title="🇻Bài 12 — AIDEOM tích hợp"),
-    st.Page("pages/test.py", title="test")
+    st.Page("pages/13_🇻🇳_Bài 12 — AIDEOM tích hợp.py", title="🇻Bài 12 — AIDEOM tích hợp")
     ])
 
 pg.run()
