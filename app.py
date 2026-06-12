@@ -1,5 +1,12 @@
 import streamlit as st
 
+st.set_page_config(
+    page_title="AIDEOM-VN Dashboard",
+    page_icon="🇻🇳",
+    layout="wide",
+    initial_sidebar_state="expanded"
+)
+
 pg = st.navigation([
     st.Page("pages/01_🏠_Trang_chủ.py", title="Trang chủ"),
     st.Page("pages/02_📈Bài 1 — Cobb-Douglas + AI.py", title="Bài 1 — Cobb-Douglas + AI"),
